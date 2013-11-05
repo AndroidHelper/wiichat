@@ -331,6 +331,7 @@
 						}
 					}
 				?>
+				<?php } /* ?>
 				<?php
 					$sql10="select * from wiichat_board where board_id!=".$bd;
 					$result10=mysql_query($sql10);
@@ -353,6 +354,7 @@
 					}
 				}
 			  ?>
+			  <?php */ ?>
 		</div>
 		<?php require_once('footer.php'); ?>
 	</div>

@@ -1,4 +1,6 @@
 <div id="footNav"><a href="index.php">聊天室首页</a> <a href="#head">TOP</a></div>
+<?php
+/*
 	<div id="footer">
 		[<?php echo date('m-j H:i')?>]<br/>
 		<?php
@@ -11,3 +13,5 @@
 			?>
 		</div>
 	</div>
+*/
+?>

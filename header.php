@@ -1,3 +1,5 @@
+<?php
+/*
 		<div id="head">
 			<?php 
 				if(!empty($siteLogo)){
@@ -9,4 +11,6 @@
 					echo "<div id='slogan'>".$siteName."</div>";
 				}		
 			?>
-		</div>
+                </div>
+*/
+?>
