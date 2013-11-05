@@ -23,8 +23,8 @@
 				<form id="form2" name="addForm" method="post" action="chat_userList.php">
 					<p><span class='red'>提示：支持模糊搜索，不必填写所有的项，填写关键字即可。</span></p>
 					<p>帐号：<input name="ac" type="text" class="in1"/></p>
-					<p>手机：<input name="m" type="text" class="in1"/></p>
-					<p>Email：<input name="mail" type="text" class="in1"/></p>
+					<p>ＱＱ：<input name="m" type="text" class="in1"/></p>
+					<p>邮箱：<input name="mail" type="text" class="in1"/></p>
 					<div class="btn">
 						<input type="image" src="images/submit1.gif" width="56" height="20" alt="提交" onClick="return true"/>
 					</div>

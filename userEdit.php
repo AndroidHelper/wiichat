@@ -32,8 +32,8 @@
 		<div class="h4"> 修改个人资料 </div>
 		<div class="box">
 			<form action="userDo.php?act=edit" method="post">
-			<p>手机：<input inputmode="user predictOn" name="m" type="text" value="<?php echo $uMobile?>"/></p>
-			<p>Email：<input inputmode="user predictOn" name="mail" type="text" value="<?php echo $uEmail?>"/><input inputmode="user predictOn" name="mail2" type="hidden" value="<?php echo $uEmail?>"/></p>
+			<p>ＱＱ：<input inputmode="user predictOn" name="m" type="text" value="<?php echo $uMobile?>"/></p>
+			<p>邮箱：<input inputmode="user predictOn" name="mail" type="text" value="<?php echo $uEmail?>"/><input inputmode="user predictOn" name="mail2" type="hidden" value="<?php echo $uEmail?>"/></p>
 			<p><input inputmode="user predictOn" type="submit" value="保存"/> 【<a href="userCenter.php">返回</a>】</p>
 			</form>
 		</div>

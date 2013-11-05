@@ -68,8 +68,8 @@
 			</p>
 			<?php If($userVip==1){?><p class="red">本聊天室VIP用户</p><?php }?>
 			<?php If(($userLevel=="2") || ($userVip=="1")){?>
-			<p>手机：<?php echo $uMobile?></p>
-			<p>Email：<?php echo $uEmail?></p>
+			<p>ＱＱ：<?php echo $uMobile?></p>
+			<p>邮箱：<?php echo $uEmail?></p>
 			<?php }?>
 			<p>注册时间：<?php echo $uRegTime?></p>
 			<p>登陆次数：<?php echo $uLoginCount?></p>

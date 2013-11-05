@@ -18,8 +18,8 @@ $WPErr[102]="数据库初始化失败";
 $WPErr[131]="帐号长度为3-20位！<br/>【<a href='userReg.php?key=".$key."&amp;id=".$id."&amp;bd=".$bd."&amp;uid=".$uid."'>返回</a>】";
 $WPErr[132]="两次密码不相同！<br/>【<a href='userReg.php?key=".$key."&amp;id=".$id."&amp;bd=".$bd."&amp;uid=".$uid."'>返回</a>】";
 $WPErr[133]="密码不少于4位！<br/>【<a href='userReg.php?key=".$key."&amp;id=".$id."&amp;bd=".$bd."&amp;uid=".$uid."'>返回</a>】";
-$WPErr[134]="Email格式不正确！<br/>【<a href='userReg.php?key=".$key."&amp;id=".$id."&amp;bd=".$bd."&amp;uid=".$uid."'>返回</a>】";
-$WPErr[135]="手机格式不正确！<br/>【<a href='userReg.php?key=".$key."&amp;id=".$id."&amp;bd=".$bd."&amp;uid=".$uid."'>返回</a>】";
+$WPErr[134]="邮箱格式不正确！<br/>【<a href='userReg.php?key=".$key."&amp;id=".$id."&amp;bd=".$bd."&amp;uid=".$uid."'>返回</a>】";
+$WPErr[135]="QQ号格式不正确！<br/>【<a href='userReg.php?key=".$key."&amp;id=".$id."&amp;bd=".$bd."&amp;uid=".$uid."'>返回</a>】";
 $WPErr[136]="帐户已经被注册！<br/>【<a href='userReg.php?key=".$key."&amp;id=".$id."&amp;bd=".$bd."&amp;uid=".$uid."'>返回</a>】";
 $WPErr[137]="用户名或密码不正确！<br/>【<a href='userLogin.php?id=".$id."&amp;bd=".$bd."&amp;uid=".$uid."'>重新登陆</a>】";
 $WPErr[138]="房间不存在或已被删除！<br/>【<a href='index.php'>进入聊天室首页</a>】";
@@ -38,9 +38,9 @@ $WPErr[149]="两次密码不相同！<br/>【<a href='userPassword.php'>返回</
 $WPErr[150]="密码不少于4位！<br/>【<a href='userPassword.php'>返回</a>】";
 $WPErr[151]="原密码错误！<br/>【<a href='userPassword.php'>返回</a>】";
 $WPErr[152]="帖子标题和内容不能为空！<br/>【<a href='index.php'>返回聊天室首页</a>】";
-$WPErr[153]="Email格式不正确！<br/>【<a href='userEdit.php'>返回</a>】";
-$WPErr[154]="手机格式不正确！<br/>【<a href='userEdit.php'>返回</a>】";
-$WPErr[156]="帐号、手机、Email不相符！<br/>【<a href='userGetPW.php'>返回</a>】";
+$WPErr[153]="邮箱格式不正确！<br/>【<a href='userEdit.php'>返回</a>】";
+$WPErr[154]="QQ号格式不正确！<br/>【<a href='userEdit.php'>返回</a>】";
+$WPErr[156]="帐号、QQ号、邮箱不相符！<br/>【<a href='userGetPW.php'>返回</a>】";
 $WPErr[157]="该帐号被系统禁止注册！<br/>【<a href='userReg.php'>返回</a>】";
 
 $WPErr[199]="非法访问！<br/>【<a href='index.php'>进入网站首页</a>】";

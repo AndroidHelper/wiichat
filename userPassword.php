@@ -20,9 +20,9 @@
 		<div class="h4"> 修改聊天室密码 </div>
 		<div class="box">
 			<form action="userDo.php?act=pw" method="post">
-			<p>旧 密 码：<input inputmode="user predictOn" name="pw" type="password"/></p>
-			<p>新 密 码：<input inputmode="user predictOn" name="pw1" type="password"/></p>
-			<p>确认密码：<input inputmode="user predictOn" name="pw2" type="password"/></p>
+			<p>旧密码：<input inputmode="user predictOn" name="pw" type="password"/></p>
+			<p>新密码：<input inputmode="user predictOn" name="pw1" type="password"/></p>
+			<p>新密码：<input inputmode="user predictOn" name="pw2" type="password"/></p>
 			<p><input inputmode="user predictOn" type="submit" value="保存"/> 【<a href="userCenter.php">返回</a>】</p>
 			</form>
 		</div>

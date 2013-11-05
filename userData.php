@@ -35,9 +35,9 @@
 		<?php require_once('header.php'); ?>
 		<div class="h"> 我的资料 </div>
 		<div class="box">
-			<h2>帐号：<?php echo $uAccount?></h2>
-			<p>手机：<?php echo $uMobile?></p>
-			<p>Email：<?php echo $uEmail?></p>
+			<p>帐号：<?php echo $uAccount?></p>
+			<p>ＱＱ：<?php echo $uMobile?></p>
+			<p>邮箱：<?php echo $uEmail?></p>
 			<?php If($uVip=="1"){?> <span class="red">本聊天室VIP用户</span><?php }?>
 			</p>
 			<p>注册时间：<?php echo $uRegTime?></p>

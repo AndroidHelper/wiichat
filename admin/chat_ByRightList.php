@@ -80,8 +80,8 @@
 						<tr class="t1">
 							<td></td>
 							<td>账号</td>
-							<td>手机</td>
-							<td>Email</td>
+							<td>ＱＱ</td>
+							<td>邮箱</td>
 							<td>注册时间</td>
 							<td>是否VIP</td>
 							<td>删除</td>

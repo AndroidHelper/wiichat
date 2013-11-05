@@ -57,8 +57,8 @@
 		<div class="header2"><span>用户详情</span></div>
 		<div class="fromcontent">
 			<p class="p2">帐号：<span class="sp2"><?php echo $uAccount;?></span></p>
-			<p class="p2">手机：<span class="sp2"><?php echo $uMobile;?></span></p>
-			<p class="p2">Email：<span class="sp2"><?php echo $uEmail;?></span></p>
+			<p class="p2">ＱＱ：<span class="sp2"><?php echo $uMobile;?></span></p>
+			<p class="p2">邮箱：<span class="sp2"><?php echo $uEmail;?></span></p>
 			<p class="p2">注册时间：<span class="sp2"><?php echo $uRegTime;?></span></p>
 			<p class="p2">登陆次数：<span class="sp2"><?php echo $uLoginCount;?></span></p>
 			<p class="p2">最近登陆：<span class="sp2"><?php echo $uLastLogin;?></span></p>

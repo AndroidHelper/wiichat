@@ -20,12 +20,12 @@
 		<div class="h4"> 聊天室用户注册 </div>
 		<div class="box">
 			<form action="userRegDo.php<?php echo $url?>" method="post">
-			<p class="red">提示：带*为必填。</p>
-			<p>帐 号：<input inputmode="user predictOn" name="name" type="text"/>*</p>
-			<p>输入密码：<input inputmode="user predictOn" name="pw1" type="password"/>*</p>
-			<p>密码确认：<input inputmode="user predictOn" name="pw2" type="password"/>*</p>
-			<p>手 机：<input inputmode="user predictOn" name="phone" type="text"/>*</p>
-			<p>Email：<input inputmode="user predictOn" name="email" type="text"/>*</p>
+			<p class="red">提示：QQ和邮箱作为找回密码的依据。</p>
+			<p>帐号：<input inputmode="user predictOn" name="name" type="text"/>*</p>
+			<p>密码：<input inputmode="user predictOn" name="pw1" type="password"/>*</p>
+			<p>密码：<input inputmode="user predictOn" name="pw2" type="password"/>*</p>
+			<p>ＱＱ：<input inputmode="user predictOn" name="phone" type="text"/>*</p>
+			<p>邮箱：<input inputmode="user predictOn" name="email" type="text"/>*</p>
 			<p><input inputmode="user predictOn" type="submit" value="提交注册"/></p>
 			</form>
 		</div>

@@ -26,10 +26,10 @@
 	}elseIf(!preg_match("/^([a-zA-Z0-9]+[_|\-|\.]?)*[a-zA-Z0-9]+@([a-zA-Z0-9]+[_|\-|\.]?)*[a-zA-Z0-9]+\.[a-zA-Z]{2,3}$/",$email)){
 		header("location:".$serverURL."/error.php?err=134&url=".$url);
 		exit();
-	}elseIf(!preg_match("/^\d{11}$/", $phone)){
+	}elseIf(!preg_match("/^\d*$/", $phone)){
 		header("location:".$serverURL."/error.php?err=135&url=".$url);
 		exit();
-	}elseIf(strpos($fbdStr,strtolower($account))>0){
+    }elseIf(strpos($fbdStr,strtolower($account))>0){
 		header("location:".$serverURL."/error.php?err=157&url=".$url);
 		exit();
 	}Else{

@@ -1,4 +1,4 @@
-<div id="footNav"><a href="index.php">聊天室首页</a> <a href="#head">TOP</a></div>
+<div id="footNav"><a href="index.php">聊天室首页</a></div>
 <?php
 /*
 	<div id="footer">

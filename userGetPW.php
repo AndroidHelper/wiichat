@@ -12,11 +12,11 @@
 		<?php require_once('header.php'); ?>
 		<div class="h4"> 忘记密码 </div>
 		<div class="box">
-			<p>填写您的注册时提交的帐号、手机和Email...</p>
+			<p>填写您的注册时提交的帐号、QQ号和邮箱</p>
 			<form action="userDo.php?act=getPW" method="post">
 				<p>帐号：<input inputmode="user predictOn" name="ac" type="text"/></p>
-				<p>手机：<input inputmode="user predictOn" name="m" type="text"/></p>
-				<p>Email：<input inputmode="user predictOn" name="mail" type="text"/></p>
+				<p>ＱＱ：<input inputmode="user predictOn" name="m" type="text"/></p>
+				<p>邮箱：<input inputmode="user predictOn" name="mail" type="text"/></p>
 				<p><input inputmode="user predictOn" type="submit" value="提交"/> 【<a href="userLogin.php">返回</a>】</p>
 			</form>
 		</div>
