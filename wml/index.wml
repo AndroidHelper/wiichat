@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN" "http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<card id="info" title="手机不支持WAP2.0">
+　<p>请使用wap2.0手机访问<br/>或用电脑访问。</p>
+</card>
+</wml>

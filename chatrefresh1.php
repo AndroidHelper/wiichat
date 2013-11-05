@@ -1,0 +1,2 @@
+<p>手动刷新 <a href="privateChat.php?uid=<?php echo $uid?>&amp;r=<?php echo rand();?>&amp;refresh=2">[刷新]</a> </p>
+<p><a href='privateChat.php?uid=<?php echo $uid?>&amp;r=<?php echo rand();?>&amp;refresh=1'>[设置为自动刷新]</a></p>

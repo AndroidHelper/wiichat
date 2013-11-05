@@ -1,0 +1,1 @@
+Copyright(c)2008-2010 <a href="http://www.wiipu.com/" target="_blank">北京微普科创科技有限公司</a>

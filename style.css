@@ -1,0 +1,185 @@
+body {
+	margin:0;
+	padding:0;
+	font-size:1.1em;
+}
+h2 {
+	margin:0.25em;
+	font-size:1.083em;
+}
+a {
+	color:#0e97ec;
+	text-decoration:none;
+}
+img {
+	border:0;
+}
+input {
+	margin:0.166em;
+	font-size:1em;
+	border:0.083em solid #346699;
+}
+hr {
+	margin:0.25em;
+}
+.red {
+	color:red;
+}
+.important {
+	color:red;
+	font-size:1.083em;
+}
+.gray {
+	color:#999;
+}
+.center {
+	text-align:center;
+}
+.clear {
+	margin:0;
+	padding:0;
+	clear:both;
+	line-height:0;
+	height:0.0833em;
+	border-top:0.0833em dotted #f36f21;
+}
+
+#container	{
+	width:100%;
+	text-align:left;
+}
+.container1{
+	width:18.833em!important;
+}
+.container2{
+}
+#container #head{
+	text-align:left;
+}
+
+#container .h{
+	height:1.833em;
+	color:#fff;
+	background-color:#108FDF;
+	padding-top:0.25em;
+}
+#container .h a{ color:#ffffff;}
+#container .h2,.h3,.h4{
+	color:#000;
+	padding:0.25em 0 0.166em 0;
+	font-weight:bold;
+}
+#container .h2 a,.h3 a,.h4 a{
+	color:#fff;
+}
+#container .h2{
+	background-color:#91c7e9;
+}
+#container .h3{
+	background-color:#696969;
+}
+#container .h4{
+	background-color:#f36f21;
+}
+#container .more{
+	margin:-1.33em 0 0 15em;
+}
+#container .box{
+	margin:0.833em 0.333em;
+}
+#container .box p{
+	margin:0.5em 0;
+}
+#container .box p.p1
+{
+	border-bottom:0.083em dashed #e1dddd;
+	padding:0; 
+	margin:0;
+	margin-top:0.4166em;
+}
+#container .box p span.sp1
+{
+	color:#9d9d9d;
+}
+#container .box p span.sp2
+{
+	color:#0E97EC;
+}
+#logo {
+	padding:0.5em 0;
+	border-bottom:0.166em solid #ff6600;
+}
+
+#slogan {
+	height:1.375em;
+	color:#00f;
+	font-weight:bold;
+	font-size:1.333em;
+	margin:1.25em;
+}
+
+#menu {
+	font-size:1.166em;
+	font-weight:bold;
+	margin-bottom:0.428em;
+}
+
+#menu p	{
+	margin:1.07em 0;
+}
+
+#footer {
+	padding:0.5em 0;
+	color:#fff;
+	background-color:#aaaaaa;
+	text-align:center;
+}
+#footer #disp{
+	display:none;
+}
+#footNav {
+	padding:0.083em 0;
+	color:#000;
+	background-color:#d2d2d2;
+	text-align:center;
+}
+
+#footNav a {
+	color:#000;
+}
+
+.bz{ 
+	color:#666666;
+	margin-top:0.4166em; 
+	margin-left:0.4166em;
+ }
+
+.bz span{ 
+	color:#0e97ec;
+}
+
+#container .qh{
+	color:#66abd6;
+}
+
+#container .box  .send {
+	margin-left:2.5em;
+}
+.box .content{
+	text-indent:2.5em;
+}
+#container .bz .count{	
+	color:#101010;
+
+}
+form{
+	margin-top:-0.0834em;
+}
+form.fo1{
+	margin-top:1em;
+	text-align:center;
+}
+#container #experse{
+	border:0.083em solid #7F9DB9;
+}
+
